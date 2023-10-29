@@ -1,28 +1,3 @@
-Skip to content
-SebastienMorichon
-/
-DA-PROJET-3
-
-Type / to search
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Commit
-Update README.md
- main
-@SebastienMorichon
-SebastienMorichon committed on Jan 27 
-1 parent 9f65482
-commit 35f7f0f
-Showing 1 changed file with 95 additions and 2 deletions.
- 97 changes: 95 additions & 2 deletions97  
-README.md
-@@ -1,2 +1,95 @@
 # PROJET-3
 Créez et utilisez une base de données immobilière avec SQL
 <h1>Créez et utilisez une base de données immobilière avec SQL</h1>
@@ -120,24 +95,4 @@ Créez et utilisez une base de données immobilière avec SQL
 <li>Base de données opérationnelle avec les données du 1er semestre 2020 (captures d’écran directement du système de gestion de base de données des tables construites).</li>
 <li>Document avec les requêtes et les résultats (PDF).&nbsp;</li>
 </ol>
-0 comments on commit 35f7f0f
 @GuillaumeNau
- 
-Leave a comment
-Aucun fichier choisi
-Attach files by dragging & dropping, selecting or pasting them.
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Update README.md · SebastienMorichon/DA-PROJET-3@35f7f0f
